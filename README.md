@@ -1,4 +1,4 @@
-                      ### Onyx
+                       Onyx
 
 -----------------------------------------------------------
 ``The bot has protection only goes to discord.gg/onyxrp``
